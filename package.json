@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "flask": "^0.2.10",
-    "heroku": "^8.7.1"
+    "heroku": "^7.15.2"
   }
 }
