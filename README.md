@@ -12,7 +12,7 @@ To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in t
 
 `python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+A button should appegfcgtar to click: _Open Preview_ or _Open Browser_.
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
